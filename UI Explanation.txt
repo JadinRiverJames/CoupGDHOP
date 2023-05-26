@@ -1,0 +1,5 @@
+The UI for this project should be fairly self explanatory, but for the sake of posterity:
+
+The Start Game button will start a new game or restart the current game when clicked.
+The View Cards toggle will allow you to view everyone's cards, so you can ensure the game is running properly.
+The 3 Sliders underneath said toggle allows you to change how likely the AI is to Challenge, Counter, or Challenge another Counter. These are % based values.

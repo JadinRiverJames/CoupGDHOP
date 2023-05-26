@@ -1,0 +1,67 @@
+Documentation
+
+Here's where I'll write a summary of my workflow  throughout my time on this project. I'm starting at 7:35 PM MST, Wednesday, the 24th of May.
+First I'll go over the rules of coup and see what it is I'll need to create
+
+7:49 PM MST, Wednesday 
+After a brief read over the rules of Coup and the assignment, I'm surprised that the assignment doesn't ask for AI "weights" and instead requests simple random actions. Stretch goal, if I have the time?
+
+Let's start by making a card data structure that will hold said card's type.
+
+8:05 PM MST, Wednesday
+I think for the sake of simplicity for the moment, I'll keep the player count locked at 4. Let's build out a data structure for that now as well
+
+8:51 PM MST, Wednesday
+Took a small break to check in on my cat that got spayed today. Came back and created some data structs for players. Also integrated player creation and setup.
+
+9:07 PM MST, Wednesday
+I've built a 4 player test bed in unity UI. If I had more time I'd love to set up a radial spawning system to allow for any number of players, but I'm pressed for time as is from work and life.
+
+9:20 PM MST, Wednesday
+Players and cards are correctly populating for the start of the game. Cards are color coded.
+
+9:30 PM MST, Wednesday
+Gonna have to get to bed. Work kept me up rather late the night prior. I've got a day of work tomorrow, recording with the Youtubers. I'll try to find some time to work on the project.
+
+10:30 AM MST, Thursday
+Up for the day and prepping new builds for the youtubers to test before recording.
+
+11:25 AM MST, Thursday
+The youtubers are testing the other mod that needs to be recorded today, so I've got some downtime. Going to Create the Announcement log and hopefully some of the turn order logic.
+
+11:35 AM MST, Thursday
+Not meant to be. Now working on fixing and changing stuff for the youtubers for work.
+
+2:27 PM MST, Thursday
+Hopefully wrapped up all the changes the youtubers wanted. Back to the working on the announcement log
+
+2:35 PM MST, Thursday
+Wishful thinking. More changes required.
+
+3:19 PM MST, Thursday
+Next set of changes done. Working on announcement log again
+
+3:31 PM MST, Thursday
+A rather robust announcement log system is now finished. On to actions and turn orders, including counteraction logic
+
+4:45 PM MST, Thursday
+Work is sporadiacally popping up to interfere but most of the base counter and turn logic is now in place
+
+5:57 PM MST, Thursday
+Recording has wrapped up. Continuing work on implementing more actions and counteractions
+
+6:45 PM MST, Thursday
+I've run into a potential flaw with the rules of the game as I understand them. As such, I'm going to continue under the impression that, once a counteraction has been challenged and the challenge is successful, subsequent players do not have a chance to counter or challenge the action again.
+
+12:02 AM MST, Friday
+Got a bit carried away, there. Stopped for dinner at some point, but otherwise mostly wrapped up the project. A few finishing touches and code cleanup is next for me.
+
+1:02 PM MST, Friday
+Cleaning up the code base, seperating regions etc. Should be ready to upload to github quite soon.
+
+1:17 PM MST, Friday
+Cleaned up and better organized the codebase a tad. Unfortunately I'll be on the road for the next little while so I think I'll have to turn this in quite soon.
+
+
+
+
